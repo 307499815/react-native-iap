@@ -57,4 +57,4 @@ tsconfig.tsbuildinfo
 
 *.js.flow
 *.d.ts
-*.js
+#*.js
